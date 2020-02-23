@@ -1,5 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+and 
+https://github.com/grommet/grommet-starter-new-app#using-layer
 ## Available Scripts
 
 In the project directory, you can run:
